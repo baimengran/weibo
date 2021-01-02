@@ -154,7 +154,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="770" />
     <option name="y" value="25" />
     <option name="width" value="911" />
@@ -217,15 +217,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609587414589</updated>
-      <workItem from="1609587416210" duration="2317000" />
+      <workItem from="1609587416210" duration="2916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2317000" />
+    <option name="totallyTimeSpent" value="2916000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="770" y="25" width="911" height="756" extended-state="0" />
+    <frame x="770" y="25" width="911" height="756" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
